@@ -1,6 +1,6 @@
-[![MrRangerYT GitHub Banner](./assets/GitHubHeader.png)](https://mrranger.dev)
+[![MrRangerYT GitHub Banner](./assets/GitHubHeader.png)](https://vk.com/mrrangeryt)
 
-[![Visits Badge](https://badges.pufler.dev/visits/mrranger/mrranger)](https:mrranger.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/mrranger/mrranger)](https://vk.com/mrrangeryt)
 [![VK GROUP Badge](https://img.shields.io/badge/VK-Profile-informational?style=flat&logo=vk&logoColor=white&color=1CA2F1)](https://vk.com/rangerstudiotm)
 [![VK Badge](https://img.shields.io/badge/VK-Profile-informational?style=flat&logo=vk&logoColor=white&color=0D76A8)](https://vk.com/mrrangeryt)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/mrranger)
@@ -9,7 +9,7 @@ Hey there 👋
 
 I’m Andrey, a senior full-stack engineer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
 
-Want to know more about me? [Check out my portfolio.](https://mrranger.dev/)
+Want to know more about me? [Check out my portfolio.   Soon!!!](https://vk.com/mrrangeryt)
 
 ## 📝 Latest Blog Posts
 

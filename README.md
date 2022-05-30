@@ -1,8 +1,8 @@
 [![MrRangerYT GitHub Banner](./assets/GitHubHeader.png)](https://mrranger.dev)
 
 [![Visits Badge](https://badges.pufler.dev/visits/mrranger/mrranger)](https:mrranger.dev)
-[![VK GROUP Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=vk&logoColor=white&color=1CA2F1)](https://vk.com/rangerstudiotm)
-[![VK Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=vk&logoColor=white&color=0D76A8)](https://vk.com/mrrangeryt)
+[![VK GROUP Badge](https://img.shields.io/badge/VK-Profile-informational?style=flat&logo=vk&logoColor=white&color=1CA2F1)](https://vk.com/rangerstudiotm)
+[![VK Badge](https://img.shields.io/badge/VK-Profile-informational?style=flat&logo=vk&logoColor=white&color=0D76A8)](https://vk.com/mrrangeryt)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/mrranger)
 
 Hey there 👋
@@ -25,24 +25,8 @@ Want to know more about me? [Check out my portfolio.](https://mrranger.dev/)
 
 <br>
 
-<a href="https://github.com/mrranger/tailwindcss-v2-dark-mode-template">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mrranger&repo=tailwindcss-v2-dark-mode-template&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-
-<a href="https://github.com/mrranger/pomegradient">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mrranger&repo=pomegradient&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-
-<a href="https://github.com/mrranger/ng-limeade">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mrranger&repo=ng-limeade&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/mrranger/officeapi">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mrranger&repo=officeapi&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/mrranger/RST-Bypass">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mrranger&repo=RST-Bypass&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
@@ -134,6 +118,3 @@ Check back at the top of the hour for a new quote!
 
 <br>
 
-> ### Want to know how I made this README?
->
-> Check out my [tutorial](https://mrranger.dev/blog/creating-a-killer-github-profile-readme-part-1/)!

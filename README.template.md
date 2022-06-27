@@ -11,16 +11,6 @@ I’m Andrey, a senior full-stack engineer, creative coder and self-proclaimed d
 
 Want to know more about me? [Check out my portfolio.   Soon!!!](https://vk.com/mrrangeryt)
 
-## 📝 Latest Blog Posts
-
-<br>
-
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
-
-<br>
-
 ## 📌 Pinned Repositories
 
 <br>

@@ -98,7 +98,7 @@ Want to know more about me? [Check out my portfolio.   Soon!!!](https://vk.com/m
 
 ## 📣 How about an Office quote before you go?
 
-> I. Declare. Bankruptcy!
+> Dwight, you ignorant slut!
 >
 > <p>- Michael Scott</p>
 
